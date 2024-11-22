@@ -11,6 +11,22 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+    },
+    {
+      "name": "location_permission",
+      "value": "Allow the app to obtain location information when running in the foreground during location scenarios"
+    },
+    {
+      "name": "internet_permission",
+      "value": "Allow applications to use networks in localization scenarios"
+    },
+    {
+      "name": "fuzzy_location_permission",
+      "value": "Allow the app to obtain fuzzy device location information during location scenarios"
+    },
+    {
+      "name": "language",
+      "value": "en"
     }
   ]
 }
